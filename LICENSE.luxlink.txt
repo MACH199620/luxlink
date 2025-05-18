@@ -1,0 +1,19 @@
+LuxLink – Licencia Extendida
+
+Este software se distribuye bajo la Licencia Apache 2.0, pero incluye las siguientes condiciones adicionales:
+
+1. Cualquier uso comercial de LuxLink —ya sea por venta directa, integración en hardware, SaaS, distribución, capacitación o soporte técnico— requiere el aporte del 15% sobre los ingresos brutos generados.
+
+2. Queda expresamente prohibido utilizar el nombre “LuxLink”, su logotipo, o su modelo de activación (PassKeys) sin autorización escrita o mención explícita a sus autores.
+
+3. Los proyectos que reciban ingresos bajo forma de donaciones, patrocinios, membresías, grants u otros apoyos monetarios, deberán aportar el 15% correspondiente si LuxLink forma parte funcional de la solución ofrecida.
+
+4. El uso personal, educativo o investigativo sin fines de lucro permanece libre y respaldado.
+
+> “No cobramos por el código.  
+> Cobras tú, si decidís ignorar lo que representa.”
+
+---
+
+Autor original: MACH199620  
+Fecha de publicación: Mayo 2025
